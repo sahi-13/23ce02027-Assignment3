@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main ()
 {
-    int M,N;
-    float W,K,T;
+    int M,K,N;
+    float W,T;
     printf("Marks obtained:");
     scanf("%d",&M);
      printf("No of classes conducted:");
